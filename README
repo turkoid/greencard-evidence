@@ -1,0 +1,11 @@
+Install MikTex 64bit:
+https://miktex.org/
+
+Install Perl 64bit:
+https://www.perl.org
+
+Install VSCode
+Install LatexWorkshop extension
+
+Updating settings with vscode.settings
+Build document
